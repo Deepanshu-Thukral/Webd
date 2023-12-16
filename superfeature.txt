@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Helloooooo Worldddddd
+=======
+Hello
+World
+>>>>>>> anotherFeature
